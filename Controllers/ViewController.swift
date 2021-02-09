@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  AppcentAssignment
+//  
 //
 //  Created by Batuhan Baran on 29.01.2021.
 //

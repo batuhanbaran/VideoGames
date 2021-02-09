@@ -1,6 +1,6 @@
 //
 //  PageViewController.swift
-//  AppcentAssignment
+//  
 //
 //  Created by Batuhan Baran on 30.01.2021.
 //

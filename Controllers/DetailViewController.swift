@@ -1,6 +1,6 @@
 //
 //  DetailViewController.swift
-//  AppcentAssignment
+//  
 //
 //  Created by Batuhan Baran on 31.01.2021.
 //
